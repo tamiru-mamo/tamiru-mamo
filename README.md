@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hello, I'm Tamiru Mamo  👋
 
-<!--
-**tamiru-mamo/tamiru-mamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Web Developer student in my senior year at Arizona State University. I have a passion for creating dynamic and responsive web applications using modern technologies. I'm currently learning more advanced concepts in JavaScript with the goal of becoming a proficient Web designer.
 
-Here are some ideas to get you started:
+## GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamiru-mamo&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education:
+- Senior Year, **Full-Stack Web Development** - Arizona State University
+- Expected Graduation: [May 2015]
+
+##  Technologies & Skills
+
+### Frontend Development:
+- **HTML5**, **CSS3**, **JavaScript**
+
+### Backend Development:
+-**Java**, **Python**
+
+### Databases:
+- **SQL**:
+  - **Microsoft SQL Server** - Expert
+  - **Oracle SQL** - Expert
+  - **PostgreSQL** - Beginner/Intermediate
+### Tools & Technologies:
+- **Git** - Version control for tracking changes in projects.
+- **GitHub** - Code repository hosting, collaboration, and project management.
+- **Splunk** - Log management and data analysis tool used for monitoring and visualizing data.
+- **Rancher** - Container orchestration platform, used for managing Docker containers in production.
+- **Volt** - Task and process management tool for automating business workflows.
+- **Jira** - Project management and issue tracking for agile software development.
+- **ServiceNow** - IT service management (ITSM) platform for managing IT workflows and incidents.
+### Outside of coding:
+- I enjoy reading about **artificial intelligence**.
+- I love **traveling** and discovering new cultures.
+
+
