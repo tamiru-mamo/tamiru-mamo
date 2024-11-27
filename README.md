@@ -5,6 +5,11 @@ I am a Full-Stack Web Developer student in my senior year at Arizona State Unive
 ## GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tamiru-mamo&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
+## Badges
+![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL-Expert-blue)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-Expert-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Beginner/Intermediate-green)
+
 ### 🎓 Education:
 - Senior Year, **Full-Stack Web Development** - Arizona State University
 - Expected Graduation: [May 2015]
@@ -33,5 +38,8 @@ I am a Full-Stack Web Developer student in my senior year at Arizona State Unive
 ### Outside of coding:
 - I enjoy reading about **artificial intelligence**.
 - I love **traveling** and discovering new cultures.
+## Find me on: 
+- [LinkedIn](https://www.linkedin.com/in/tmamo1@asu.edu) - [CodePen](https://codepen.io/tmamo) - [Behance](https://www.behance.net/ tmamo1@asu.edu)
+
 
 
